@@ -1,4 +1,4 @@
-Pre-built firmware for SenseCAP T1000-A and T1000-E for LoRaWAN and Meshtastic
+Pre-built firmware for SenseCAP T1000-A -B and T1000-E for LoRaWAN and Meshtastic
 
 for Meshtastic I recommend the latest firmware from here https://flasher.meshtastic.org/
 
